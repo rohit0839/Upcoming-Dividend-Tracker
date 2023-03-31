@@ -7,7 +7,7 @@ Source of the data : https://www1.nseindia.com/corporates/corporateHome.html
 
 ![image](Image.png)
 
-This project, developed using Python with Flask as the backend, shows the record of the dividend along with ex-date that is offically declared by NSE (National Stock Exchange of India Limited)
+This project, developed using Python with Flask as the backend, shows the record of the dividend along with ex-date and amount that is offically announced by NSE (National Stock Exchange of India Limited)
 
 
 # Running
