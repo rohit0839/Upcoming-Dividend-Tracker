@@ -1,5 +1,5 @@
 # Upcoming-Dividend-Tracker
-This project monitors the announcement of the upcoming dividend by NSE (National Stock Exchange of India Limited).
+This project monitors the announcement of the upcoming dividend by the NSE (National Stock Exchange of India Limited).
 
 Source of the data : https://www1.nseindia.com/corporates/corporateHome.html
 
@@ -7,7 +7,7 @@ Source of the data : https://www1.nseindia.com/corporates/corporateHome.html
 
 ![image](Image.png)
 
-This project, developed using Python with Flask as the backend, shows the record of the dividend along with ex-date and amount that is offically announced by NSE.
+This project is developed using Python with Flask as the backend which shows the upcoming dividend along with ex-date and amount that is offically announced by the NSE.
 
 
 # Running
