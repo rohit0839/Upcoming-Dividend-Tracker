@@ -22,7 +22,6 @@ def index():
     keyword = 'DIVIDEND'
     
     # Filtering to only include dividend as corporate action
-    
     for item in items:
         description = item.find('description').text
         if keyword in description:
