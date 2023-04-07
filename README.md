@@ -1,7 +1,7 @@
 # Upcoming-Dividend-Tracker
 This project monitors the announcement of the upcoming dividend by the NSE (National Stock Exchange of India Limited).
 
-Source of the data : https://www1.nseindia.com/corporates/corporateHome.html
+Source of the data : https://www.nseindia.com/companies-listing/corporate-filings-actions
 
 <hr/>
 
