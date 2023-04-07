@@ -5,7 +5,7 @@ Source of the data : https://www1.nseindia.com/corporates/corporateHome.html
 
 <hr/>
 
-![image](Image.png)
+![image](image.png)
 
 This project is developed using Python with Flask as the backend which shows the upcoming dividend along with ex-date and amount that is offically announced by the NSE.
 
