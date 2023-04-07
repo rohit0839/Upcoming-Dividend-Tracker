@@ -3,6 +3,8 @@ This project monitors the announcement of the upcoming dividend by the NSE (Nati
 
 Source of the data : https://www.nseindia.com/companies-listing/corporate-filings-actions
 
+Disclaimer: The data used in this project comes from [NSE](https://www.nseindia.com/). The use of this data is for educational/research purposes only and is not intended for commercial or personal gain. I acknowledges and respects the intellectual property rights of NSE and their respective owners. I do not claim ownership of the data and assumes no responsibility or liability for any errors, inaccuracies, or misinterpretations that may arise from the use of this data.
+
 <hr/>
 
 ![image](image.png)
